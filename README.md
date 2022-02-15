@@ -31,7 +31,7 @@ I was looking for an existing model online that I could remix to fix my needs.  
 # Picture Gallery
 
 ## Inspiration came from X-Golf:
-![alt text](images/img_7534.jpg)
+![Screenshot](images/img_7534.jpg)
 
 ## Current Setup:
-![alt text](images/img_7728.jpg)
+![Screenshot](images/img_7728.jpg)
